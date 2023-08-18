@@ -15,7 +15,7 @@ SEO Checker is a simple web application built using [Streamlit](https://streamli
 
 1. Clone this repository:
 
-- git clone https://github.com/your-username/Streamlit-SEO-Analyzer.git
+- git clone [https://github.com/your-username/Streamlit-SEO-Analyzer.git](https://github.com/easihene/seochecker-app.git)
 - cd Streamlit-SEO-Analyzer
 
 2. Create a virtual environment (optional but recommended)*
